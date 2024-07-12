@@ -1,0 +1,14 @@
+
+.title{
+    text-align: center;
+}
+.featurs{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img{
+    height: 700px;
+    display: block;
+    margin: 10px auto;
+}
